@@ -83,7 +83,7 @@ Traced and fixed `B1_CUSTOMER_GROUP_MISSING` discount-sync failures by creating 
 ### 📫 Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/huzaif-khan-259934243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/huzaif-husain-khan-259934243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:huzaifhusainkhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Huzaifkhan-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Portfolio button will be added here once the site is deployed online -->
