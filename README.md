@@ -91,6 +91,6 @@ Traced and fixed `B1_CUSTOMER_GROUP_MISSING` discount-sync failures by creating 
 
 📍 United Arab Emirates · India
 <!-- Remove the next line if you'd rather not show your phone numbers publicly -->
-📞 +971 55 699 7849 · +91 721 912 0589
+📞 +971 55 699 7849
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0a6ed1&height=120&section=footer" />
