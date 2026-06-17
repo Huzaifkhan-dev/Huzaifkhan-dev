@@ -1,17 +1,4 @@
-<!--
-  ============================================================================
-   GitHub Profile README  —  Huzaif Husain Khan  (@Huzaifkhan-dev)
-  ============================================================================
-   This file becomes the banner on your GitHub profile page.
-   To update what people see, just edit this file.
-   TODO before publishing:
-     • LinkedIn badge link  -> replace the "#"
-     • Portfolio badge link -> replace the "#"
-     • (optional) remove the phone line near the bottom
-   If you publish under a different username than "Huzaifkhan-dev",
-   change it in the komarev (profile-views) badge and the typing-SVG link.
-  ============================================================================
--->
+
 
 <img width="100%" alt="Huzaif Husain Khan — SAP Customer Checkout (CCO) Plugin Developer"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0a6ed1,100:00b4d8&height=190&section=header&text=Huzaif%20Husain%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SAP%20Customer%20Checkout%20%28CCO%29%20Plugin%20Developer&descSize=18&descAlignY=58&descColor=eaf6ff" />
