@@ -14,7 +14,7 @@
 
 <img alt="Open to freelance" src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-22c55e?style=flat-square" />
 <img alt="Location" src="https://img.shields.io/badge/Based%20in-UAE%20%C2%B7%20India-0a6ed1?style=flat-square" />
-<a href="https://www.linkedin.com/in/huzaif-khan-259934243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/huzaif-husain-khan-259934243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://huzaifkhan.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live%20Site-0a6ed1?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="mailto:huzaifhusainkhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huzaifhusainkhan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Huzaifkhan-dev&label=Profile%20views&color=0a6ed1&style=flat-square" />
