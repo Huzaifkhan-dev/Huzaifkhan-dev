@@ -27,6 +27,7 @@
 
 <img alt="Open to freelance" src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-22c55e?style=flat-square" />
 <img alt="Location" src="https://img.shields.io/badge/Based%20in-UAE%20%C2%B7%20India-0a6ed1?style=flat-square" />
+<a href="https://www.linkedin.com/in/huzaif-khan-259934243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:huzaifhusainkhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huzaifhusainkhan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Huzaifkhan-dev&label=Profile%20views&color=0a6ed1&style=flat-square" />
 
@@ -95,11 +96,10 @@ Traced and fixed `B1_CUSTOMER_GROUP_MISSING` discount-sync failures by creating 
 ### 📫 Connect
 
 <p>
-  <a href="mailto:huzaifhusainkhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- TODO: replace # with your LinkedIn URL -->
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- TODO: replace # with your portfolio URL once it's live -->
-  <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0a6ed1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/huzaif-khan-259934243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:huzaifhusainkhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Huzaifkhan-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Portfolio button will be added here once the site is deployed online -->
 </p>
 
 📍 United Arab Emirates · India
